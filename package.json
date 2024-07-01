@@ -5,6 +5,7 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
+        "start": "node ./API/index.mjs",
         "test": "mocha --experimental-modules test/**/*.test.mjs"
     },
     "keywords": [],
